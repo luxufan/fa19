@@ -11,7 +11,7 @@ days:
       "**Exam**{: .label .label-exam } **Midterm 1 (8 - 9:30PM)**":
   - date: 2019-10-09
     events:
-      "**Discussion**{: .label .label-disc } Discussion 7":
+      "**Discussion**{: .label .label-disc } [Discussion 7](../resources/assets/discussions/disc07.pdf)":
   - date: 2019-10-10
     events:
       "Linear Regression and Feature Engineering":
