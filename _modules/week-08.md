@@ -3,8 +3,8 @@ title: Week 8
 days:
   - date: 2019-10-14
     events:
-      "**Lab**{: .label .label-lab } Lab 8":
-      "**Vitamin**{: .label .label-vit } Vitamin 8":
+      "**Lab**{: .label .label-lab } [Lab 8](../resources/assets/discussions/lab08.pdf)":
+      "**Vitamin**{: .label .label-vit } [Vitamin 8](https://forms.gle/svs6w3yyVX9e6VBK6)":
   - date: 2019-10-15
     events:
       "Linear Regression and Feature Engineering":

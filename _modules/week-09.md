@@ -13,5 +13,5 @@ days:
       "**Discussion**{: .label .label-disc } Discussion 9":
   - date: 2019-10-24
     events:
-      "Gradient Descent":
+      "Linear Regression and Feature Engineering":
 ---
